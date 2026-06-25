@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chengtaoxu.github.io/sitemap.xml
+Sitemap: https://shiroyark.github.io/sitemap.xml
