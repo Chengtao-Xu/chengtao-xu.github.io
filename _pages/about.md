@@ -25,6 +25,6 @@ latest_posts:
 
 I am a postdoctoral fellow in the Department of Molecular Biophysics and Biochemistry at Yale University, working in the laboratory of [Ailong Ke](https://medicine.yale.edu/lab/ke/). I am supported by the Tom and Joan Steitz RNA Fellowship.
 
-My research focuses on engineering CRISPR-Cas systems for RNA-guided nucleic acid targeting. During my postdoctoral training, I discovered that structure-inspired domain truncation of IscB and Cas9 homologs converts them into single-stranded DNA (ssDNA)- and RNA-targeting nucleases. I am currently developing these reprogrammed proteins as locus-specific probes to map functionally relevant ssDNA exposure in the genome.
+My research focuses on engineering CRISPR-Cas systems for RNA-guided nucleic acid targeting. During my postdoctoral training, I discovered that structure-inspired domain truncation of IscB and Cas9 homologs converts them into single-stranded DNA (ssDNA)- and RNA-targeting nucleases.
 
 Previously, I completed my Ph.D. in Biomedical Engineering at Southeast University, where I worked on DNA-based digital data storage systems.
