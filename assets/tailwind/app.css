@@ -1,11 +1,11 @@
-/* Override author name styling in publications: bold instead of underline */
-.bibliography em,
-.bibliography strong,
-ol.bibliography li span.author em,
-ol.bibliography li span.author strong,
-div#publications span.author em,
-div#publications span.author strong {
-  font-style: normal;
-  text-decoration: none;
-  font-weight: bold;
+/* Darker year headings in publications list */
+.publications h2 {
+  color: #333333 !important;
+}
+
+/* Override author name styling: bold instead of underline */
+em {
+  text-decoration: none !important;
+  font-style: normal !important;
+  font-weight: bold !important;
 }
