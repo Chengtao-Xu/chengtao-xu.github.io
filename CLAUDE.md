@@ -75,7 +75,7 @@ bundle exec al-folio upgrade overrides diff <path>    # then `overrides accept <
 - Name: Chengtao Xu (许成韬)
 - Current position: Postdoctoral Fellow, Department of Molecular Biophysics and Biochemistry, Yale University (Jun 2024–present)
 - Previous position: Postdoctoral Fellow, Department of Molecular Biology and Genetics, Cornell University (Mar 2023–Jun 2024)
-- PI: Ailong Ke (https://medicine.yale.edu/lab/ke/)
+- PI: Ailong Ke (https://medicine.yale.edu/profile/ailong-ke/)
 - Fellowship: Tom and Joan Steitz RNA Fellowship
 - Email: chengtao.xu@yale.edu
 - Google Scholar: https://scholar.google.com/citations?user=6VnVUPcAAAAJ&hl=en
