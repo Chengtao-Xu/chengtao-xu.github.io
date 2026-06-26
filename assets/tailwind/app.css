@@ -1,0 +1,11 @@
+/* Override author name styling in publications: bold instead of underline */
+.bibliography em,
+.bibliography strong,
+ol.bibliography li span.author em,
+ol.bibliography li span.author strong,
+div#publications span.author em,
+div#publications span.author strong {
+  font-style: normal;
+  text-decoration: none;
+  font-weight: bold;
+}
