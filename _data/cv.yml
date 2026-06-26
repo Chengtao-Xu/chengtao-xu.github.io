@@ -1,189 +1,183 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Chengtao Xu
+  label: Postdoctoral Fellow
+  email: chengtao.xu@yale.edu
+  location: New Haven, CT
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Postdoctoral Fellow in the Department of Molecular Biophysics and Biochemistry at Yale University, working in the laboratory of Dr. Ailong Ke. Research focuses on engineering CRISPR-Cas systems for programmable nucleic acid targeting using structural biology and biochemical approaches.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+    - network: Google Scholar
+      username: 6VnVUPcAAAAJ
+    - network: ORCID
+      username: 0000-0003-3020-4381
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 266 Whitney Ave
+    city: New Haven
+    region: Connecticut
+    postalCode: CT 06511
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Yale University
+        location: New Haven, CT
+        url: https://www.yale.edu/
+        area: Molecular Biophysics and Biochemistry
+        studyType: Postdoctoral Fellow
+        start_date: 2024-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Supervisor: Dr. Ailong Ke"
+          - Tom and Joan Steitz RNA Fellowship
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Cornell University
+        location: Ithaca, NY
+        area: Molecular Biology and Genetics
+        studyType: Postdoctoral Associate
+        start_date: 2023-03
+        end_date: 2024-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Supervisor: Dr. Ailong Ke"
+
+      - institution: Southeast University
+        location: Nanjing, China
+        area: Biomedical Engineering
+        studyType: Ph.D.
+        start_date: 2018-09
+        end_date: 2023-03
+        highlights:
+          - "Advisor: Prof. Hong Liu"
+
+      - institution: Southeast University
+        location: Nanjing, China
+        area: Biomedical Engineering
+        studyType: B.S.
+        start_date: 2014-09
+        end_date: 2018-09
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Yale University / Cornell University
+        position: Postdoctoral Researcher
+        location: New Haven, CT / Ithaca, NY
+        start_date: 2023-03
+        summary: "Supervisor: Dr. Ailong Ke"
         highlights:
-          - Relativity
-          - Description 2.
+          - Converting IscB/Cas9 into versatile RNA-guided RNA editors
+          - Structural insights to improve ssDNA-/RNA-targeting IscB/Cas9 in vivo performance
+          - Structural studies on CRISPR IVB/IVC complexes
+          - Structural studies on CRISPR I-E complexes for phage defense
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Southeast University
+        position: Graduate Researcher
+        location: Nanjing, China
+        start_date: 2019-06
+        end_date: 2023-03
+        summary: "Advisor: Prof. Hong Liu"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Versatile DNA-based data storage based on the principle of movable type printing
+          - Integrated DNA data storage system based on electrochemical DNA synthesis and sequencing
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Southeast University
+        position: Graduate Research Assistant
+        location: Nanjing, China
+        start_date: 2018-09
+        end_date: 2019-06
+        summary: "Advisor: Dr. Biao Ma"
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - High-resolution patterning of liquid metal on hydrogels to construct flexible electronics
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Tom and Joan Steitz RNA Fellowship
+        date: 2026-04
+        awarder: Yale University
+        summary: Tom and Joan Steitz RNA Fellows program 2026 class, mentor&#58; Ailong Ke, Yale University
+
+      - title: Poster Award
+        date: 2025-10
+        awarder: Yale Center for RNA Science and Medicine
+        summary: 2025 Annual Retreat of the Yale Center for RNA Science and Medicine
+
+      - title: National Scholarship
+        date: 2021-11
+        awarder: Chinese Government
+        summary: Highest scholarship given by Chinese government (Top 0.2%)
+
+      - title: Excellent Bachelor Thesis Award
+        date: 2018-09
+        awarder: Southeast University and Jiangsu Province
+        summary: Top 1%
+
+      - title: Presidential Scholarship
+        date: 2017-12
+        awarder: Southeast University
+        summary: Top 1% (awarded Dec. 2017 and Nov. 2015)
+
+      - title: Chien-shiung Wu Scholarship for Biomedical Engineering
+        date: 2015-06
+        awarder: Southeast University
+        summary: Top 2%
+
+      - title: First Prize, National Innovation and Design Competition of Biomedical Engineering
+        date: 2016-11
+        awarder: National Competition Committee
+        summary: Designed a portable detection platform based on a microfluidic paper chip (Top 3%)
+
+    Talks:
+      - title: Conversion of IscB and Cas9 into RNA-guided RNA-editors
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - Chengtao Xu
+          - Ailong Ke
+        publisher: Cold Spring Harbor Laboratory Genome Engineering&#58; CRISPR Frontiers (Poster)
+        releaseDate: 2025-08
 
-      - title: Max Planck Medal
+      - title: Conversion of IscB and Cas9 into RNA-guided RNA-editors
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Chengtao Xu
+          - Ailong Ke
+        publisher: 2025 Annual Retreat of the Yale Center for RNA Science and Medicine (Poster Award)
+        releaseDate: 2025-11
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Integrated data storage system based on DNA electrochemical synthesis and sequencing
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Chengtao Xu
+          - Hong Liu
+        publisher: Joint Forum on Bioelectronics and Biophotonics, Hainan, China (Oral)
+        releaseDate: 2021-12
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    Service:
+      - company: Ailong Ke Group, Yale University / Cornell University
+        position: Mentor
+        location: New Haven, CT / Ithaca, NY
+        start_date: 2023-03
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Mentored rotation graduate students in CRISPR biology and protein engineering
+          - Mentored visiting undergraduate students at Cornell during summer research programs
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - company: Yale University
+        position: Scientific Community Engagement
+        location: New Haven, CT
+        start_date: 2024-06
+        highlights:
+          - Presented research in the Yale MB&B Research-in-Progress seminar series and RNA Club
+          - Organized departmental Friday scientific communication sessions to facilitate cross-group discussion
+          - Participated in Yale RNA Center annual retreat
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - company: Hong Liu Group, Southeast University
+        position: Mentor
+        location: Nanjing, China
+        start_date: 2018-09
+        end_date: 2023-03
+        highlights:
+          - Mentored undergraduate students through thesis projects, from experimental design to final writing
+          - Introduced two incoming PhD students to independent research
+
+      - company: Hong Liu Group, Southeast University
+        position: Laboratory Assistant
+        location: Nanjing, China
+        start_date: 2020-12
+        end_date: 2023-03
+        highlights:
+          - Managed laboratory organization, ordering, safety management, and equipment scheduling
+          - Trained new graduate students in electrochemical measurements, gel electrophoresis, and microfluidic device fabrication
+          - Guided students on new research topics
