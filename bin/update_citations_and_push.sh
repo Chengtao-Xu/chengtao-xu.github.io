@@ -30,7 +30,7 @@ MONTH=$(date +"%B %Y")
 echo "==> H-index: $HINDEX (as of $MONTH)"
 
 echo "==> Updating H-index in publications.md..."
-sed -i '' "s/H-index: [0-9]* (Google Scholar, [^)]*)/H-index: $HINDEX (Google Scholar, $MONTH)/" _pages/publications.md
+sed -i '' "s/<b>H-index&#58; [0-9]*<\/b>/<b>H-index&#58; $HINDEX<\/b>/" _pages/publications.md
 
 echo "==> Committing and pushing..."
 git add _data/citations.yml _pages/publications.md
