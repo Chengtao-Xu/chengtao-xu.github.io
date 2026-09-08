@@ -2,13 +2,21 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Engineering RNA-guided enzymes, and storing digital data in DNA.
 nav: true
 nav_order: 3
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
+
+<p style="font-size: 18px; line-height: 1.6; margin-bottom: 2rem;">
+  I am interested in how nucleic acids become single-stranded inside cells, and in
+  building programmable enzymes that act on them. Both threads below rest on one
+  conviction&#58; mechanism, resolved structurally, should precede and direct
+  engineering. One arrived there through DNA as a medium to write and read, the
+  other through an affinity for single strands that IscB and Cas9 keep masked in
+  the duplex-binding state.
+</p>
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
