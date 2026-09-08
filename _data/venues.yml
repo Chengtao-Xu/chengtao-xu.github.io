@@ -1,9 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Maps a venue abbreviation used in a bib entry's abbr= field to a colour and a
+# URL, rendering it as a badge on the publications page. No entry in
+# papers.bib currently uses abbr=, so this file is intentionally empty.
+#
+# "NAR":
+#   url: https://academic.oup.com/nar
+#   color: "#0b6bcb"
+{}

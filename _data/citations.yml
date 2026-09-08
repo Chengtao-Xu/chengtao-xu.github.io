@@ -1,12 +1,16 @@
 metadata:
-  last_updated: '2026-06-25'
+  last_updated: '2026-09-08'
 papers:
+  6VnVUPcAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Structure basis for single-strand nucleic acid targeting by IscB and variants
+    year: 2026
   6VnVUPcAAAAJ:_kc_bZDykSQC:
     citations: 3
     title: Renewable electrode array based on transformable metal for scaling up DNA synthesis and manipulation
     year: 2026
   6VnVUPcAAAAJ:YOwf2qJgpHMC:
-    citations: 10
+    citations: 17
     title: Conversion of IscB and Cas9 into RNA-guided RNA editors
     year: 2025
   6VnVUPcAAAAJ:4TOpqqG69KYC:
@@ -18,55 +22,55 @@ papers:
     title: High-density aptamer synthesis based on primer exchange reaction for label-free electrochemical biosensing
     year: 2024
   6VnVUPcAAAAJ:Zph67rFs4hoC:
-    citations: 8
+    citations: 9
     title: Gel-based electrochemical DNA synthesis for quasi-solid-state data storage
     year: 2024
   6VnVUPcAAAAJ:KlAtU1dfN6UC:
-    citations: 30
+    citations: 33
     title: Wearable wireless dual-channel EEG system for emotion recognition based on machine learning
     year: 2023
   6VnVUPcAAAAJ:kNdYIx-mwKoC:
-    citations: 17
+    citations: 19
     title: Assembly of reusable DNA blocks for data storage using the principle of movable type printing
     year: 2023
   6VnVUPcAAAAJ:3fE2CSJIrl8C:
-    citations: 7
+    citations: 8
     title: Continuous glucose monitoring in hypoxic environments based on water splitting-assisted electrocatalysis
     year: 2023
   6VnVUPcAAAAJ:MXK_kJrjxJIC:
-    citations: 15
+    citations: 18
     title: Shape-programmable liquid metal fibers
     year: 2022
   6VnVUPcAAAAJ:8k81kl-MbHgC:
-    citations: 19
+    citations: 21
     title: Surface-Embedded Liquid Metal Electrodes with Abrasion Resistance via Direct Magnetic Printing
     year: 2022
   6VnVUPcAAAAJ:0EnyYjriUFMC:
-    citations: 69
+    citations: 73
     title: Emerging tumor-on-chips with electrochemical biosensors
     year: 2022
   6VnVUPcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 21
+    citations: 22
     title: Three-dimensional photonic nitrocellulose for minimally invasive detection of biomarker in tumor interstitial fluid
     year: 2022
   6VnVUPcAAAAJ:2osOgNQ5qMEC:
-    citations: 82
+    citations: 89
     title: Electrochemical DNA synthesis and sequencing on a single electrode with scalability for integrated data storage
     year: 2021
   6VnVUPcAAAAJ:d1gkVwhDpl0C:
-    citations: 74
+    citations: 81
     title: Uncertainties in synthetic DNA-based data storage
     year: 2021
   6VnVUPcAAAAJ:u-x6o8ySG0sC:
-    citations: 96
+    citations: 100
     title: Magnetic printing of liquid metal for perceptive soft actuators with embodied intelligence
     year: 2021
   6VnVUPcAAAAJ:zYLM7Y9cAGgC:
-    citations: 49
+    citations: 51
     title: Wearable capillary microfluidics for continuous perspiration sensing
     year: 2020
   6VnVUPcAAAAJ:IjCSPb-OGe4C:
-    citations: 133
+    citations: 136
     title: High-resolution patterning of liquid metal on hydrogel for flexible, stretchable, and self-healing electronics
     year: 2020
   6VnVUPcAAAAJ:qjMakFHDy7sC:
@@ -74,10 +78,10 @@ papers:
     title: "Flexible Electronics: A Versatile Approach for Direct Patterning of Liquid Metal Using Magnetic Field"
     year: 2019
   6VnVUPcAAAAJ:9yKSN-GCB0IC:
-    citations: 216
+    citations: 224
     title: A versatile approach for direct patterning of liquid metal using magnetic field
     year: 2019
   6VnVUPcAAAAJ:UeHWp8X0CEIC:
-    citations: 9
+    citations: 10
     title: Ultrasensitive point-of-care testing of arsenic based on a catalytic reaction of unmodified gold nanoparticles
     year: 2018
