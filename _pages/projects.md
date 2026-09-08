@@ -2,10 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: Engineering RNA-guided enzymes, and storing digital data in DNA.
+nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 
