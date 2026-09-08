@@ -21,25 +21,6 @@ cv:
 
   sections:
     Education:
-      - institution: Yale University
-        location: New Haven, CT
-        url: https://www.yale.edu/
-        area: Molecular Biophysics and Biochemistry
-        studyType: Postdoctoral Fellow
-        start_date: 2024-06
-        highlights:
-          - "Supervisor: Dr. Ailong Ke"
-          - Tom and Joan Steitz RNA Fellowship
-
-      - institution: Cornell University
-        location: Ithaca, NY
-        area: Molecular Biology and Genetics
-        studyType: Postdoctoral Associate
-        start_date: 2023-03
-        end_date: 2024-06
-        highlights:
-          - "Supervisor: Dr. Ailong Ke"
-
       - institution: Southeast University
         location: Nanjing, China
         area: Biomedical Engineering
@@ -57,16 +38,24 @@ cv:
         end_date: 2018-09
 
     Experience:
-      - company: Yale University / Cornell University
-        position: Postdoctoral Researcher
-        location: New Haven, CT / Ithaca, NY
-        start_date: 2023-03
-        summary: "Supervisor: Dr. Ailong Ke"
+      - company: Yale University
+        position: Postdoctoral Fellow, Molecular Biophysics and Biochemistry
+        location: New Haven, CT
+        url: https://www.yale.edu/
+        start_date: 2024-06
+        summary: "Supervisor: Dr. Ailong Ke. Tom and Joan Steitz RNA Fellowship."
         highlights:
           - Converting IscB/Cas9 into versatile RNA-guided RNA editors
           - Structural insights to improve ssDNA-/RNA-targeting IscB/Cas9 in vivo performance
           - Structural studies on CRISPR IVB/IVC complexes
           - Structural studies on CRISPR I-E complexes for phage defense
+
+      - company: Cornell University
+        position: Postdoctoral Associate, Molecular Biology and Genetics
+        location: Ithaca, NY
+        start_date: 2023-03
+        end_date: 2024-06
+        summary: "Supervisor: Dr. Ailong Ke. Same laboratory, continued at Yale from June 2024."
 
       - company: Southeast University
         position: Graduate Researcher
@@ -88,6 +77,11 @@ cv:
           - High-resolution patterning of liquid metal on hydrogels to construct flexible electronics
 
     Awards:
+      - title: Poster Award
+        date: 2026-06
+        awarder: CRISPR 2026 International Conference
+        summary: CRISPR 2026 International Conference, New Haven
+
       - title: Tom and Joan Steitz RNA Fellowship
         date: 2026-04
         awarder: Yale University
