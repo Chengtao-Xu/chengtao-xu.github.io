@@ -223,6 +223,10 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/plugins.md
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -676,9 +680,9 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# Re-add an entry here if you ever switch _pages/cv.md to cv_format: jsonresume,
+# pointing at your own JSON Resume file.
+jekyll_get_json: []
 
 jsonresume:
   - basics

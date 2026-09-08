@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Chengtao-Xu
 
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# Listed repositories must be public for GitHub's API to return them on a
+# public page. Add entries as "Chengtao-Xu/<repo>" once there are public ones.
+github_repos: []
