@@ -2,14 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Chengtao Xu # the website title (if blank, full name will be used instead)
+title: blank # sentinel: the theme composes the styled name from first_name/last_name
 first_name: Chengtao
 middle_name: 
 last_name: Xu
 contact_note: > 
   Email: chengtao.xu@yale.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral fellow at Yale engineering CRISPR-Cas systems into programmable tools for targeting single-stranded DNA and RNA.
+description: "Postdoctoral fellow at Yale engineering CRISPR-Cas systems into programmable tools for targeting single-stranded DNA and RNA."
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
