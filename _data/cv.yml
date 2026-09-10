@@ -16,7 +16,7 @@ cv:
     street: 266 Whitney Ave
     city: New Haven
     region: Connecticut
-    postalCode: 06511
+    postalCode: "06511"
     countryCode: US
 
   sections:
